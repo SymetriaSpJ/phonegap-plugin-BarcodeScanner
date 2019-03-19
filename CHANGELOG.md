@@ -1,8 +1,89 @@
 # Change Log
 
-[6.0.3](https://github.com/phonegap/phonegap-plugin-barcodescanner/tree/6.0.3) (2016-10-21)
-[Full Changelog](https://github.com/phonegap/phonegap-plugin-barcodescanner/compare/6.0.2..6.0.3)
+## [v6.0.8](https://github.com/* remote origin
+  Fetch URL: https://github.com//tree/v6.0.8) (2017-07-18)
+[Full Changelog](https://github.com/* remote origin
+  Fetch URL: https://github.com//compare/v6.0.7...v6.0.8)
 
+- 6.0.8 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/b3e99476b768df3fb4da50ff3bca4aea6f863710)
+- :bookmark: Bumping plugin version to 6.0.8 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/7cf0c179ca40c8fefaec4016ac2d759ae728cd7a)
+- :bug: Issue #364: UPC_A codes now scans with extra 0 at the start [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/f311beeb945f80ac8790391f8238bd57d9fa0cd9)
+- Merge pull request #505 from renanbandeira/patch-1 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/919a626daf6df124c79c792863b352ca0a87044d)
+- Updates README.md with new saveHistory prop [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/e63ab0db5e278d9565b50ab1f5140dd75ecd1742)
+- reverts 523501d [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/7b3c22aeb9cf0683937ae43cc30ccbff1dfbd83c)
+- Gets saveHistory from preference defined in config [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/523501d8d7199928093c8dbebf67d9358476cc77)
+- Adds saveHistory flag [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/132359c564750651a9b10a01caf4b8dc30862556)
+- Updating CHANGELOG [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/20727f81f2add352433c0649a9e5e3e5093467ac)
+
+## [v6.0.7](https://github.com/* remote origin
+  Fetch URL: https://github.com//tree/v6.0.7) (2017-07-12)
+[Full Changelog](https://github.com/* remote origin
+  Fetch URL: https://github.com//compare/v6.0.6...v6.0.7)
+
+- 6.0.7 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/78dbf1cccb30935b832dc659eb377541edc52786)
+- :bookmark: Bumping plugin version to 6.0.7 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/d0a2b4c52169553a86fc3fb5e00c0caa489d097d)
+- :wrench: update pluginpub version [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/fc7e3be16f3b1c811e5013f028bed934ebd7c9c1)
+- :apple: Issue #238: ios callbacks not called [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/e33e64ef462d00a95a0c6f3258a087f61f0e15da)
+- Merge pull request #431 from phonegap/ios-fix-426 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/c65ba2f987838331eaa8a569b739515cad7a91e0)
+- :apple: Issue #340: iOS WebThreadLock crash on barcodeScanFailed [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/217d673644b6df96b175ce78ffa9cd8aee24135b)
+- Merge pull request #472 from jcesarmobile/beep-fix [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/8091c92f5e1e68e50f22fd171754a77740a76859)
+- :memo: Issue #470: PDF417 vs PDF_417, which one is valid [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/7ed5b212d25f2c0918e7ac0353cc3d59d8094a4c)
+- :fire: Removing these tests [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/54a28dd8871b81db810aed7df0a9909d71937b8b)
+- :wrench: Issue #473: Travis fails [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/68a2c5d9064bf927df0c5a862009d5b9812785b7)
+- :white_check_mark: Issue #473: Travis fails [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/2e335b82b7bd3ad9b7efc2c87adcb441c0d88bda)
+- Issue #330: Add a LICENSE file [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/a2f59f7adba728006c40dec431ecedf1c229f6e6)
+- :memo: Issue #471: README.md fix [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/cce5f050b8861dd05e6e8e0a03fc4b301ed3788f)
+- Fix beep [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/3cf20a6eb3397f3a2bb61a044c02f1e4810b5810)
+- Merge pull request #429 from jcesarmobile/pgb-usage-description [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/b5a135c6788e1a9ecb9f06a087931701f0b7a321)
+- Camera cannot focus due to wrong aspect ratio since plugin 6.0.5 #392 [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/04e0b3dadfe9aad8ec90e1d9480efe149f7e64f1)
+- [ios] re-add support for formats option [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/75ab7396d0e86b78188369d5f27a5c4fea602921)
+- Document usage description for phonegap build [view commit](http://github.com/* remote origin
+  Fetch URL: https://github.com//commit/01a9f77961be74581fe25786c17e351026f1bbb5)
+
+# Change Log
+
+[6.0.5](https://github.com/phonegap/phonegap-plugin-barcodescanner/tree/6.0.5) (2016-12-22)
+[Full Changelog](https://github.com/phonegap/phonegap-plugin-barcodescanner/compare/6.0.4...6.0.5)
+
+- Flashlight default value #385, Turning off found plain text #259, Remove Result Prompt #234, Custom Result Messages #219 [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/fee66a7d1b4c3bca845beb3fa8c99365b4c15ce2)
+- Flipping orientation on Android crashes app [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/72ae2c75d3d66df24c124a6da9c26e48f7ad36a0)
+- Focus improvements [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/52a23b0f42d454d6a9f2e29a693b5e984c0bb13f)
+- Crash on iOS on low memory devices [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/6e3718c2db03fda3d8ea439a9471b3a08e121f21)
+- Disable Animation [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/f9960f9b81aef35bd85ecba856c63058bc109ac1)
+- Flashlight option [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/a7ed6890d4e5e2cb386c8754aca081fad559ba1a)
+- Merge pull request #343 from cepm-nate/master [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/77622ca92f5607a8d22131f62f2dea720857a5ed)
+- Merge pull request #334 from lucatorella/patch-1 [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/10f94bc81aff5329291272a4922837e04569a339)
+- Merge pull request #346 from kunder-lab/master [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/1cdbf871c9d290630e4535e8ed9db0804b413f74)
+- Catch Class not registered exception in case of missing Media Player [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/d43964f06c8eb57fc168d7b19027462e957ba23d)
+- Adds promise scan .done particularly to handle "No cameras" error [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/68b6fd14a95f34b32ea2bb651f9715ff880e4ade)
+- Merge pull request #358 from vladimir-kotikov/explicit_intent [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/75cffc3282f09f6973d078d8ce9b306bff210bd5)
+- Use explicit intent to launch scan activity [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/4c046898543dee838b259997a5ec360240e26354)
 - Merge pull request #338 from jlowe234/master [view commit](https://github.com/phonegap/phonegap-plugin-barcodescanner/commit/7f4e4daf19951692873a490c845446cfa0fbda68)
 - 6.0.2 [view commit](http://github.com/phonegap/phonegap-plugin-barcodescanner/commit/18f958796ee9587d5bc21e6229f40139dd4f0c8a)
 - Bumping plugin version to 6.0.2 [view commit](http://github.com/phonegap/phonegap-plugin-barcodescanner/commit/8728015c06d6d201cbd421621384cd19857f6720)
