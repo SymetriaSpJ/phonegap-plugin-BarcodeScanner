@@ -46,7 +46,7 @@ public class BarcodeScanner extends CordovaPlugin {
     private static final String PREFER_FRONTCAMERA = "preferFrontCamera";
     private static final String ORIENTATION = "orientation";
     private static final String SHOW_FLIP_CAMERA_BUTTON = "showFlipCameraButton";
-    private static final String RESULTDISPLAY_DURATION = "resultDisplayDuration";
+    private static final String RESULT_ DISPLAY_DURATION = "resultDisplayDuration";
     private static final String SHOW_TORCH_BUTTON = "showTorchButton";
     private static final String TORCH_ON = "torchOn";
     private static final String SAVE_HISTORY = "saveHistory";
